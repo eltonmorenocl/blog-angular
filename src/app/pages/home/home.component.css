@@ -6,3 +6,10 @@
   justify-content: center;
 }
 
+header {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
